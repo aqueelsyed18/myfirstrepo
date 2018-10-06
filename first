@@ -8,26 +8,34 @@
    <meta http-equiv="X-UA-Compatible" content="ie=edge">
    <title>Title</title>
 </head>
-<style>
-hi{background:green;
-}
-</style>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div class='one'>
-        <h1>Heading</h1>
-        <h4>This is Awesome!!!</h4>
-    </div>
-    
-    <p>
-        my name is Syed Aqueel Ahmed
-    </p>
 
-    <div class ="two">
-        <h1>Heading 2</h1>
-    </div>
- 
+
+<body>
+   <h1>Hello VIT 1</h1>
+   <h2>Hello VIT 2</h2>
+   <h3>Hello VIT 3</h3>
+   <h4>Hello VIT 4</h4>
+   <h5>Hello VIT 5</h5>
+   <h6>Hello VIT 6</h6>
+
+
+   <p> paragraph Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit maiores voluptates, nobis quo minima facilis ratione sint nam exercitationem dicta accusantium commodi vel corrupti mollitia iste libero. Eligendi, veritatis tempore.</p>
+
+   <!-- Unordered List style="list-style-type:square"  -->
+   <ul>
+      <li>Coffee</li>
+      <li>Tea</li>
+      <li>Milk</li>
+   </ul>
+
+   <!-- Ordered List type="" -->
+   <ol>
+      <li>Coffee</li>
+      <li>Tea</li>
+      <li>Milk</li>
+   </ol>
+
    
+
 </body>
 </html>
